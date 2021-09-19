@@ -11,7 +11,7 @@ use App\Models\EmployeeModel;
 | and acts as a middleman between frontend view and database
 | Project Name: ci4crud
 | Developed By: Brotecs Technology Limited.
-| Created: 18th Sep, 2021
+| Created: 16th Sep, 2021
 | Updated: 19th Sep, 2013 [S M Samnoon Abrar]
 |
 | For Suggestion and Query please mail to samnoonabrar@gmail.com
