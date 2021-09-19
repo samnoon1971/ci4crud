@@ -9,7 +9,7 @@ use \CodeIgniter\Model;
 | Project Name: ci4crud
 | Developed By: Brotecs Technology Limited.
 | Created: 16th Sep, 2021
-| Updated: 19th Sep, 2013 [S M Samnoon Abrar]
+| Updated: 19th Sep, 2021 [S M Samnoon Abrar]
 |
 | For Suggestion and Query please mail to samnoonabrar@gmail.com
 |
