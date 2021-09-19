@@ -15,13 +15,28 @@ use \CodeIgniter\Model;
 |
 */
 class EmployeeModel extends Model {
+    //this is a protected variable for holding employees table 
     protected $table = "employees";
+
+    //this is a protected variable for holding primary key of employee table
     protected $primaryKey = "id";
+    
+    //this is a protected variable for holding allowed field in the employee table
     protected $allowedFields = ["name", "email", "salary", "city", "designation"];
+    
+    //this is a protected variable which tells whether timestamps are to be used
     protected $useTimestamps = true;
+
+    //this is a protected variable for holding creation time
     protected $createdField = "created_at";
+
+    //this is a protected variable for holding latest updation time 
     protected $updatedField = "updated_at";
+
+    //this is a protected variable for holding deletion time
     protected $deleteField = "deleted_at";
+    
+    //this is a protected variable for specifing the return data type for the EmployeeModel 
     protected $returnType = "array";
     
 
