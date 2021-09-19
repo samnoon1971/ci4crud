@@ -22,7 +22,7 @@ class Employee extends Controller {
     public $empModel;
     //Function acts as a constructor
     //Input Parameters : Void
-    //Return Parameters : parameterOne->View;
+    //Return Parameters : Void
     //Additional Details: This function includes helpers
     public function __contruct() {
         helper("form");
