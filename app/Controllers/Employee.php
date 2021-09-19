@@ -19,12 +19,13 @@ use App\Models\EmployeeModel;
 */
 
 class Employee extends Controller {
+    //this is a public variable for holding employee model 
     public $empModel;
     //Function acts as a constructor
     //Input Parameters : Void
     //Return Parameters : Void
     //Additional Details: This function includes helpers
-    public function __contruct() {
+    public function __construct() {
         helper("form");
         $this->empModel = new EmployeeModel();
     }
