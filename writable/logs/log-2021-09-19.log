@@ -1,0 +1,140 @@
+CRITICAL - 2021-09-19 06:39:24 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:07 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:08 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:09 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:30 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:31 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:40 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:41 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:42 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:45:43 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:46:22 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:46:25 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:46:28 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:49:22 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:54:12 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:54:13 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:54:52 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:54:52 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:55:58 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-19 06:58:11 --> Undefined constant "App\Controllers\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\Employee->addEmp()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}

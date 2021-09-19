@@ -35,7 +35,19 @@ class Employee extends Controller {
     //Return Parameters : parameterOne->View;
     //Additional Details: N/A
     public function addEmp() {
-
+        if($this->request->getMethod() == "post") {
+            $data = [
+                "name" => $this->request->getVar("name", FILTER_SANITIZE_STRING),
+                "email" => $this->request->getVar("email", FILTER_SANITIZE_EMAIL),
+                "salary" => $this->request->getVar("salary", FILTER_SANITIZE_STRING),
+                "designation" => $this->request->getVar("desg", FILTER_SANITIZE_STRING),
+                "city" => $this->request->getVar("city", FILTER_SANITIZE_STRING),
+            ];
+            if($this->empModel->save($data) == true) {
+                echo "Success";
+            }
+        }
+        return view("Views/empadd_view", ["errors" => this->empModel->errors()]);
     }
 
 

@@ -46,4 +46,12 @@ class EmployeeModel extends Model {
         "email" => "required|valid_email|is_unique[employees.email]",
         "salary" => "required|min_length[4]",
     ];
+
+    protected $validationMessages = [
+        "email" => [
+            "is_unique" => "Email not unique, Please choose another",
+            "valid_email" => "Email is not valid, try again",
+            "required" => "Email is required",
+        ]
+    ];
 }
