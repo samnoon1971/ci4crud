@@ -22,7 +22,7 @@ class Employee extends Controller {
     public $empModel;
     //Function acts as a constructor
     //Input Parameters : Void
-    //Return Parameters : Void;
+    //Return Parameters : parameterOne->View;
     //Additional Details: This function includes helpers
     public function __contruct() {
         helper("form");
@@ -31,7 +31,7 @@ class Employee extends Controller {
 
     //Function adds employee data to the database
     //Input Parameters : Void
-    //Return Parameters : Void;
+    //Return Parameters : parameterOne->View;
     //Additional Details: N/A
     public function addEmp() {
 
@@ -40,7 +40,7 @@ class Employee extends Controller {
 
     //Function views employee data from the database
     //Input Parameters : Void
-    //Return Parameters : parameterOne->JSON data;
+    //Return Parameters : parameterOne->View;
     //Additional Details: N/A
     public function viewEmp() {
 
@@ -48,7 +48,7 @@ class Employee extends Controller {
 
     //Function views employee data from the database
     //Input Parameters : parameterOne->Integer
-    //Return Parameters : Void;
+    //Return Parameters : parameterOne->View;
     //Additional Details: N/A
     public function editEmp($id = null) {
 
@@ -57,7 +57,7 @@ class Employee extends Controller {
 
     //Function deletes employee data from the database
     //Input Parameters : Void
-    //Return Parameters : Void;
+    //Return Parameters : parameterOne->View;
     //Additional Details: N/A
     public function deleteEmp() {
 
