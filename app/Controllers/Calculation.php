@@ -29,9 +29,12 @@ class Calculation extends BaseController {
     //Return Parameters : parameterOne->View;
     //Additional Details: handles http POST requests
     public function submitform() {
+        //retrieving input numberOne from post method
         $numberOne = $_POST['numberOne'];
+        //retrieving input numberTwo from post method
         $numberTwo = $_POST['numberTwo'];
         $data = [$numberOne, $numberTwo];
+        //passing data array with view
         echo view("submit_form", $data);
     }
 }
