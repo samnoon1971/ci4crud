@@ -18,7 +18,7 @@ use App\Models\EmployeeModel;
 |
 */
 
-class Employee extends Controller {
+class Employee extends BaseController {
     //this is a public variable for holding employee model 
     public $empModel;
     //Function acts as a constructor
@@ -56,7 +56,7 @@ class Employee extends Controller {
     //Return Parameters : parameterOne->View;
     //Additional Details: N/A
     public function viewEmp() {
-
+         echo "VIEW";
     }
 
     //Function views employee data from the database

@@ -46,7 +46,8 @@ $routes->get('/', 'Home::index');
  * You will have access to the $routes object within that file without
  * needing to reload it.
  */
-$routes->add("employee/addemp", "Employee::addemp");
+$routes->add("employee/add", "Employee::addemp");
+$routes->add("employee/view", "Employee::viewemp");
 if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';
 }
