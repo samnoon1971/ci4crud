@@ -1,6 +1,7 @@
 <?php namespace App\Controllers;
 
 
+
 /*
 | Class description: This class controlls input from a form
 | and stores user information
@@ -13,6 +14,16 @@
 |
 */
 class User extends BaseController {
+    //Function acts as constructor
+    //Input Parameters : Void
+    //Return Parameters : Void
+    //Additional Details: N/A
+    public function __construct() {
+        $db = \Config\Database::connect();
+        $model = model("UserModel", true, $db);
+        
+
+    }
     
     //Function shows add_form page to browser window
     //Input Parameters : Void
@@ -28,12 +39,14 @@ class User extends BaseController {
     //Return Parameters : parameterOne->View;
     //Additional Details: handles http POST requests
     public function submitform() {
-        $data = [];
-        $data['firstname'] = $_POST['firstname'];
-        $data['lastname'] = $_POST['lastname'];
-        $data['email'] = $_POST['email'];
-        $data['password'] = $_POST['password'];
+        $data = [
+        'firstname' => $_POST['firstname'],
+        'lastname' => $_POST['lastname'],
+        'email' => $_POST['email'],
+        'password' => $_POST['password'],
+        ];
         //passing data to view
+         
         echo view("submit_form", $data);
     }
 }

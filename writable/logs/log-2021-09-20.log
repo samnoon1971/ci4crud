@@ -157,3 +157,182 @@ CRITICAL - 2021-09-20 07:16:31 --> Undefined variable $firstname
 #8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
 #9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
 #10 {main}
+CRITICAL - 2021-09-20 13:14:55 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:14:57 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:14:57 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:15:06 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:15:15 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:15:51 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:17:13 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:17:37 --> demo is not a valid database connection group.
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(311): CodeIgniter\Database\Config::connect()
+#1 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(21): db_connect()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#7 {main}
+CRITICAL - 2021-09-20 13:21:01 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:21:20 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:21:21 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:21:45 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:21:45 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:22:21 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:22:28 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 13:23:03 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:23:34 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:23:53 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:27:48 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(48): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:28:23 --> demo is not a valid database connection group.
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(19): CodeIgniter\Database\Config::connect()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:28:24 --> demo is not a valid database connection group.
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(19): CodeIgniter\Database\Config::connect()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:28:25 --> demo is not a valid database connection group.
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(19): CodeIgniter\Database\Config::connect()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:29:08 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 13:30:30 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
