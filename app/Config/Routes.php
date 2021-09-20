@@ -48,6 +48,17 @@ $routes->get('/', 'Home::index');
  */
 $routes->add("employee/add", "Employee::addemp");
 $routes->add("employee/view", "Employee::viewemp");
+
+$routes->get("/calculator-add", "Calculation::addform");
+
+$routes->post("/calculator-submit", "Calculation::submitform");
+
+
+$routes->get("/user-add", "User::addform");
+
+$routes->post("/user-submit", "User::submitform");
+
+
 if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';
 }

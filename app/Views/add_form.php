@@ -7,22 +7,22 @@
     <body>
         <div class="container col-md-12">
             <div class="card-body">
-                <form action="calculator/submit" method="post">
+                <form action="user-submit" method="post">
                     <div class="form-group">
-                        <label for="firstname">First Name</lablel>
-                        <input type="text" class="form-control" placeholder="enter first name.." />
+                        <label for="firstname">First Name</label>
+                        <input name="firstname" type="text" class="form-control" placeholder="enter first name.." />
                     </div>
                     <div class="form-group">
-                        <label for="lastname">Last Name</lablel>
-                        <input type="text" class="form-control" placeholder="enter last name.." />
+                        <label for="lastname">Last Name</label>
+                        <input name="lastname" type="text" class="form-control" placeholder="enter last name.." />
                     </div>
                     <div class="form-group">
-                        <label for="email">Email</lablel>
-                        <input type="email" class="form-control" placeholder="enter email.." />
+                        <label for="email">Email</label>
+                        <input name="email" type="email" class="form-control" placeholder="enter email.." />
                     </div>
                     <div class="form-group">
-                        <label for="">Password</lablel>
-                        <input type="password" class="form-control" placeholder="enter password.." />
+                        <label for="">Password</label>
+                        <input name="password" type="password" class="form-control" placeholder="enter password.." />
                     </div>
                     <input type="submit" class="btn btn-primary" value="Submit" />
                 </form>

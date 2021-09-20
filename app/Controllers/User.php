@@ -3,9 +3,7 @@
 
 /*
 | Class description: This class controlls input from a form
-| and calculates addition, subtraction, multiplication
-| and division operations between two integers
-| Project Name: ci4crud
+| and stores user information| Project Name: ci4crud
 | Developed By: Brotecs Technology Limited.
 | Created: 20th Sep, 2021
 | Updated: 20th Sep, 2021 [S M Samnoon Abrar]
@@ -13,7 +11,7 @@
 | For Suggestion and Query please mail to samnoonabrar@gmail.com
 |
 */
-class Calculation extends BaseController {
+class User extends BaseController {
     
     //Function shows add_form page to browser window
     //Input Parameters : Void
@@ -24,18 +22,17 @@ class Calculation extends BaseController {
     }
 
 
-    //Function adds integers from input form
+    //function displays user data to view page
     //Input Parameters : Void
     //Return Parameters : parameterOne->View;
     //Additional Details: handles http POST requests
     public function submitform() {
-        //retrieving input numberOne from post method
-        $numberOne = $_POST['numberOne'];
-        //retrieving input number from post method
-        $numberTwo = $_POST['numberTwo'];
         $data = [];
-        $data['first'] = $numberTwo;
-        $data['second'] = $numberOne;
-        echo $data;
+        $data['firstname'] = $_POST['firstname'];
+        $data['lastname'] = $_POST['lastname'];
+        $data['email'] = $_POST['email'];
+        $data['password'] = $_POST['password'];
+        //passing data to view
+        echo view("submit_form", $data);
     }
 }
