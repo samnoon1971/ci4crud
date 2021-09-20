@@ -3,7 +3,8 @@
 
 /*
 | Class description: This class controlls input from a form
-| and stores user information| Project Name: ci4crud
+| and stores user information
+| Project Name: ci4crud
 | Developed By: Brotecs Technology Limited.
 | Created: 20th Sep, 2021
 | Updated: 20th Sep, 2021 [S M Samnoon Abrar]
