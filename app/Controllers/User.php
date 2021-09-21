@@ -8,7 +8,7 @@ use App\Models\UserModel;
 | Project Name: ci4crud
 | Developed By: Brotecs Technology Limited.
 | Created: 20th Sep, 2021
-| Updated: 20th Sep, 2021 [S M Samnoon Abrar]
+| Updated: 21th Sep, 2021 [S M Samnoon Abrar]
 |
 | For Suggestion and Query please mail to samnoonabrar@gmail.com
 |
