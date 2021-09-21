@@ -25,7 +25,7 @@ class User extends BaseController {
     }
 
 
-    //function displays user data to view page
+    //function submits user data to database and returns view
     //Input Parameters : Void
     //Return Parameters : parameterOne->View;
     //Additional Details: handles http POST requests
@@ -42,6 +42,11 @@ class User extends BaseController {
             echo view("add_form");
         else echo view("submit_form", $data);
     }
+
+    //function shows user data from database and returns view
+    //Input Parameters : Void
+    //Return Parameters : parameterOne->View;
+    //Additional Details: N/A
     public function viewuser() {
          
          $userModel = new UserModel();
