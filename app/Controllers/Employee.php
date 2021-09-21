@@ -1,7 +1,7 @@
 <?php
 namespace App\Controllers;
 use \CodeIgniter\Controller;
-use App\Models\EmployeeModel;
+use app\Models\EmployeeModel;
 
 
 

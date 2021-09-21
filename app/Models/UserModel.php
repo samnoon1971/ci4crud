@@ -24,4 +24,15 @@ class UserModel extends Model
     protected $validationRules    = [];
     protected $validationMessages = [];
     protected $skipValidation     = false;
+    public function getUsers() {
+        $db = \Config\Database::connect();
+        $query = $this->db->query("select id, lastname, firstname, email, password from users");
+        $result = $query->getResult();
+        if(count($result) > 0) {
+            return $result;
+        }
+        else {
+            return false;
+        }
+    }
 }

@@ -58,7 +58,7 @@ $routes->get("/user-add", "User::addform");
 
 $routes->add("/user-submit", "User::submitform");
 
-$routes->add("/user-view", "User::viewform");
+$routes->add("/user-view", "User::viewuser");
 
 if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';

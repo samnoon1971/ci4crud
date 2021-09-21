@@ -1,6 +1,6 @@
 <?php namespace App\Controllers;
 
-
+use App\Models\UserModel;
 
 /*
 | Class description: This class controlls input from a form
@@ -37,13 +37,16 @@ class User extends BaseController {
         'password' => $_POST['password'],
         ];
         //passing data to view
-        
-        echo view("submit_form", $data);
+        $userModel = new UserModel();
+        if($userModel->save($data) != false)
+            echo view("add_form");
+        else echo view("submit_form", $data);
     }
     public function viewuser() {
-        $query = $db->query("select * from users;");
-         $result = $query->getResult();
-         print_r($result);
-        echo "HELLO";
+         
+         $userModel = new UserModel();
+         $data['users'] = $userModel->getUsers();
+         
+         echo view("user-list", $data);
     }
 }

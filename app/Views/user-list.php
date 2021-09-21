@@ -2,19 +2,25 @@
 <html>
     <head>
         <title>User List</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1>User List</h1>
-        <?php if(!empty($result)):?>
-            <table border="1">
+        <h3>User List</h3>
+        <?php if(!empty($users)):?>
+            <table class="table">
+                <thead class="thead-light">
+                    <tr>
+                        <th>#</th>
+                        <th>Firstname</th>
+                        <th>Lastname</th>
+                        <th>Email</th>
+                        <th>Password</th>
+                    </tr>`
+            </thead>
+            <?php foreach($users as $user):?>
             <tr>
-                <th>firstname</th>
-                <th>lastname</th>
-                <th>email</th>
-                <th>password</th>
-            </tr>
-            <?php foreach($result as $user):?>
-            <tr>
+                <td><?= $user->id;?></td>
                 <td><?= $user->firstname;?></td>
                 <td><?= $user->lastname;?></td>
                 <td><?= $user->email;?></td>
@@ -24,7 +30,7 @@
             
         </table>
         <?php else:?>
-        <h1>Sorry! No records FOund</h1>
+        <h1>Sorry! userlist is empty</h1>
         <?php endif;?>
         
         

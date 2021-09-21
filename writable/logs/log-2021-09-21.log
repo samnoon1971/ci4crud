@@ -1,0 +1,103 @@
+CRITICAL - 2021-09-21 01:54:15 --> Undefined variable $result
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(46): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-21 01:54:34 --> Undefined variable $firstname
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/submit_form.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(45): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2021-09-21 01:54:35 --> Undefined variable $firstname
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/submit_form.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(45): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2021-09-21 01:54:54 --> Undefined variable $firstname
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/submit_form.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(45): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2021-09-21 01:54:55 --> Undefined variable $firstname
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/submit_form.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(45): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2021-09-21 01:56:52 --> Undefined variable $firstname
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/submit_form.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(52): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2021-09-21 01:57:13 --> Array to string conversion
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-21 01:58:18 --> Undefined variable $firstname
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/submit_form.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(53): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+CRITICAL - 2021-09-21 02:00:03 --> Undefined variable $result
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Views/user-list.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(214): include('...')
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(48): view()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->viewuser()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#10 {main}
+ERROR - 2021-09-21 02:08:56 --> Unknown column 'users.deleted_at' in 'where clause'
+ERROR - 2021-09-21 02:09:48 --> Unknown column 'users.deleted_at' in 'where clause'
+ERROR - 2021-09-21 02:11:19 --> Unknown column 'users.deleted_at' in 'where clause'
