@@ -6,7 +6,11 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
     </head>
     <body>
-        <h3>User List</h3>
+    <div class="container pt-2 p-5">
+		<div class="card-title d-flex justify-content-center">CRUD Operation using CodeIgniter and MySQL</div>
+        <h4 class="card-title d-flex justify-content-center">User List</h4>
+    <div class="card">
+        
         <?php if(!empty($users)):?>
             <table class="table">
                 <thead class="thead-light">
@@ -33,6 +37,7 @@
         <h1>Sorry! userlist is empty</h1>
         <?php endif;?>
         
-        
+        </div>
+        </div>
     </body>
 </html>
