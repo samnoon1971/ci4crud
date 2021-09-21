@@ -401,3 +401,5 @@ CRITICAL - 2021-09-21 08:04:49 --> Undefined constant "App\Models\this"
 #5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
 #6 {main}
 ERROR - 2021-09-21 08:06:21 --> Unknown column 'users.deleted_at' in 'where clause'
+ERROR - 2021-09-21 12:35:51 --> Unknown column 'users.deleted_at' in 'where clause'
+ERROR - 2021-09-21 12:39:56 --> Unknown column 'users.deleted_at' in 'where clause'

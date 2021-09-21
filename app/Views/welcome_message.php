@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Welcome to CodeIgniter 4!</title>
+	<title>CRUD APP</title>
 	<meta name="description" content="The small framework with powerful features">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
@@ -14,10 +14,10 @@
 </head>
 <body>
 	<div class="container pt-2 p-5">
-		<div class="card-title d-flex justify-content-center">CRUD Operation using CodeIgniter and MySQL</div>
+	<div class="card-title d-flex justify-content-center"><h2>CRUD Operation using CodeIgniter 4</h2></div>
 	<div class="card">
 		<div class="card-body btn-group flex-column">
-			<a href="user-view" class="btn btn-outline-info">View User</a>
+			<a href="user-view" class="btn btn-outline-info">View Users</a>
 			<a href="user-add" class="btn btn-outline-primary">Add User</a>
 			<a href="#" class="btn btn-outline-danger">Delete User</a>
 			<a href="#" class="btn btn-outline-success">Update User</a>
