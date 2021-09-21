@@ -53,4 +53,39 @@ class UserModel extends Model
             return false;
         }
     }
+    //Function performs select query on database and 
+    //returns resultset if user with id is present in table
+    //Input Parameters : parameterOne->Integer
+    //Return Parameters : resultset
+    //Additional Details: N/A
+    public function getUserByID($userID) {
+        $db = \Config\Database::connect();
+        $sql = "select * from users where id = ?";
+        $query = $this->db->query($sql, array($userID));
+        $result = $query->getResult();
+        if(count($result) > 0) {
+            return $result;
+        }
+        else {
+            return false;
+        }
+
+    }
+
+    //Function performs delete query on database and 
+    //returns resultset if user with id is found in table
+    //Input Parameters : parameterOne->Integer
+    //Return Parameters : resultset
+    //Additional Details: N/A
+    public function removeUserByID($userID) {
+        $ok = this->getUserByID($userID);        
+        if($ok == false) return false;
+
+        $db = \Config\Database::connect();
+        $sql = "delete from users where id = ?";
+        $query = $this->db->query($sql, array($userID));
+        $result = $query->getResult();
+        return $ok;
+
+    }
 }

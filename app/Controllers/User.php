@@ -54,4 +54,50 @@ class User extends BaseController {
          
          echo view("user-list", $data);
     }
+    
+     //function shows single user data from database and returns view
+    //Input Parameters : parameterOne->Integer
+    //Return Parameters : parameterOne->View;
+    //Additional Details: N/A
+    public function singleUser($id) {
+        $userModel = new UserModel();
+        $user = $userModel->getUserByID($id);
+        if($user == false) {
+            echo "NO USER FOUND";
+        }
+        else{
+            $data = [
+                "id" => $user[0]->id,
+                "firstname" => $user[0]->firstname,
+                "lastname" => $user[0]->lastname,
+                "email" => $user[0]->email,
+                "password" => $user[0]->password,
+            ];
+            echo view("found-user", $data);
+        }
+    }
+     //function deletes single user data from database and returns view
+    //Input Parameters : parameterOne->Integer
+    //Return Parameters : parameterOne->View;
+    //Additional Details: N/A
+    public function removeUser($id) {
+       
+        $userModel = new UserModel();
+        $user = $userModel->removeUserByID($id);
+    
+        if($user == false) {
+            echo "NO USER FOUND TO DELETE";
+        }
+        else{
+            
+            $data = [
+                "id" => $user[0]->id,
+                "firstname" => $user[0]->firstname,
+                "lastname" => $user[0]->lastname,
+                "email" => $user[0]->email,
+                "password" => $user[0]->password,
+            ];
+            echo view("removed-user", $data);
+        }
+    }
 }

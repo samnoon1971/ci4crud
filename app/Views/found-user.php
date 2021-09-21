@@ -9,26 +9,25 @@
             
             <div class="card-body">
             <div class="card-title">
-                <div class="d-flex justify-content-center">Add New User</div>
+                <div class="d-flex justify-content-center"><h4>Info for User ID = <?= $id ?></h4></div>
+
             </div>
-                <form action="user-submit" method="post">
+                <form action="/" method="post" class="card-box d-flex-row">
                     <div class="form-group">
-                        <label for="firstname">First Name</label>
-                        <input name="firstname" type="text" class="form-control" placeholder="enter first name.." />
+                        <div class="d-flex justify-content-center">First Name: <?= $firstname; ?></div>
                     </div>
                     <div class="form-group">
-                        <label for="lastname">Last Name</label>
-                        <input name="lastname" type="text" class="form-control" placeholder="enter last name.." />
+                        <div  class="d-flex justify-content-center">Last Name: <?= $lastname; ?></div>
                     </div>
                     <div class="form-group">
-                        <label for="email">Email</label>
-                        <input name="email" type="email" class="form-control" placeholder="enter email.." />
+                        <div  class="d-flex justify-content-center">Email: <?= $email; ?></div>
                     </div>
                     <div class="form-group">
-                        <label for="">Password</label>
-                        <input name="password" type="password" class="form-control" placeholder="enter password.." />
+                        <div  class="d-flex justify-content-center">Password: <?= $password; ?></div>
                     </div>
-                    <input type="submit" class="btn btn-primary" value="Submit" />
+                    <div class="d-flex justify-content-center">
+                    <input type="submit" class="btn btn-info" value="Back" />
+                    </div>
                 </form>
             </div>
         </div>
