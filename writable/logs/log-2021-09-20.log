@@ -336,3 +336,63 @@ CRITICAL - 2021-09-20 13:30:30 --> Undefined variable $db
 #4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
 #5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
 #6 {main}
+CRITICAL - 2021-09-20 21:56:34 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 21:57:06 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 21:58:27 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 21:58:34 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 22:17:06 --> syntax error, unexpected token "if"
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#2 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#4 {main}
+CRITICAL - 2021-09-20 22:19:36 --> Undefined variable $db
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(48): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->submitform()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-20 22:20:00 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-20 22:20:03 --> Cannot call constructor
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(779): App\Controllers\User->__construct()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(390): CodeIgniter\CodeIgniter->createController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}

@@ -14,16 +14,7 @@
 |
 */
 class User extends BaseController {
-    //Function acts as constructor
-    //Input Parameters : Void
-    //Return Parameters : Void
-    //Additional Details: N/A
-    public function __construct() {
-        $db = \Config\Database::connect();
-        $model = model("UserModel", true, $db);
-        
-
-    }
+    
     
     //Function shows add_form page to browser window
     //Input Parameters : Void
@@ -46,7 +37,13 @@ class User extends BaseController {
         'password' => $_POST['password'],
         ];
         //passing data to view
-         
+        
         echo view("submit_form", $data);
+    }
+    public function viewuser() {
+        $query = $db->query("select * from users;");
+         $result = $query->getResult();
+         print_r($result);
+        echo "HELLO";
     }
 }

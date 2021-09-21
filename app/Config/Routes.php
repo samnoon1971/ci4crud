@@ -56,8 +56,9 @@ $routes->post("/calculator-submit", "Calculation::submitform");
 
 $routes->get("/user-add", "User::addform");
 
-$routes->post("/user-submit", "User::submitform");
+$routes->add("/user-submit", "User::submitform");
 
+$routes->add("/user-view", "User::viewform");
 
 if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';
