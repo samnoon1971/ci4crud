@@ -78,14 +78,12 @@ class UserModel extends Model
     //Return Parameters : resultset
     //Additional Details: N/A
     public function removeUserByID($userID) {
-        $ok = this->getUserByID($userID);        
-        if($ok == false) return false;
-
+        
         $db = \Config\Database::connect();
-        $sql = "delete from users where id = ?";
-        $query = $this->db->query($sql, array($userID));
-        $result = $query->getResult();
-        return $ok;
+        $builder = $db->table("users");
+        $builder->delete(["id" => $userID]);
 
     }
+
+    
 }

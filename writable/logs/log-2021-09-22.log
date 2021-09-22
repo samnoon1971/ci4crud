@@ -1,0 +1,378 @@
+CRITICAL - 2021-09-22 01:29:12 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:29:21 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:29:24 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:29:32 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:31:49 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:31:57 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:33:41 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:34:43 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:35:49 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:35:50 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:35:50 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 01:36:26 --> Undefined constant "App\Models\this"
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:54:03 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:54:23 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:54:38 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:11 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:11 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:12 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:12 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:12 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:12 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:13 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:13 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:55:46 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:57:03 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:57:06 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 02:57:21 --> Undefined property: App\Controllers\User::$userModel
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+ERROR - 2021-09-22 02:58:27 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 02:59:11 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 02:59:53 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 03:00:06 --> Unknown column 'users.deleted_at' in 'where clause'
+CRITICAL - 2021-09-22 03:00:06 --> Call to a member function getResult() on bool
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/BaseModel.php(523): CodeIgniter\Model->doFind()
+#1 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(87): CodeIgniter\BaseModel->find()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#7 {main}
+ERROR - 2021-09-22 03:00:39 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 03:00:43 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 03:01:06 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 03:01:43 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 03:02:15 --> Unknown column 'deleted_at' in 'field list'
+ERROR - 2021-09-22 03:03:36 --> Unknown column 'deleted_at' in 'field list'
+CRITICAL - 2021-09-22 03:05:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::empty_table()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:05:41 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::empty_table()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:05:44 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::empty_table()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:07:31 --> Undefined array key 0
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Database/Query.php(349): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Database/Query.php(302): CodeIgniter\Database\Query->matchSimpleBinds()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Database/Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Database/BaseConnection.php(591): CodeIgniter\Database\Query->getQuery()
+#4 /home/samnoon/Documents/GitHub/ci4crud/app/Models/UserModel.php(84): CodeIgniter\Database\BaseConnection->query()
+#5 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#6 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#7 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#8 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#11 {main}
+CRITICAL - 2021-09-22 03:08:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::delete()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:10:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::delete()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:12:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::delete()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:13:56 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::delete()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+CRITICAL - 2021-09-22 03:14:54 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::empty_table()
+#0 /home/samnoon/Documents/GitHub/ci4crud/app/Controllers/User.php(86): App\Models\UserModel->removeUserByID()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#3 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#6 {main}
+ERROR - 2021-09-22 03:21:52 --> Unknown column 'users.deleted_at' in 'where clause'
+CRITICAL - 2021-09-22 03:30:34 --> Call to undefined function App\Controllers\_POST()
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:30:47 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:30:51 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:31:21 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:31:43 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:32:25 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:32:32 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:32:42 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+CRITICAL - 2021-09-22 03:34:07 --> Array callback must have exactly two elements
+#0 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(802): App\Controllers\User->removeUser()
+#1 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController()
+#2 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/samnoon/Documents/GitHub/ci4crud/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /home/samnoon/Documents/GitHub/ci4crud/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('...')
+#5 {main}
+ERROR - 2021-09-22 03:40:10 --> Unknown column 'users.deleted_at' in 'where clause'
+ERROR - 2021-09-22 03:40:28 --> Unknown column 'users.deleted_at' in 'where clause'

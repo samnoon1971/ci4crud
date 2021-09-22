@@ -19,7 +19,7 @@
 		<div class="card-body btn-group flex-column">
 			<a href="user-view" class="btn btn-outline-info">View Users</a>
 			<a href="user-add" class="btn btn-outline-primary">Add User</a>
-			<a href="#" class="btn btn-outline-danger">Delete User</a>
+			<a href="user-remove" class="btn btn-outline-danger">Delete User</a>
 			<a href="#" class="btn btn-outline-success">Update User</a>
 		</div>
 	</div>

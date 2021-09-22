@@ -60,8 +60,10 @@ $routes->add("/user-submit", "User::submitform");
 
 $routes->add("/user-view", "User::viewuser");
 
-$routes->add("/user-delete/(:num)", "User::removeUser/$1");
+$routes->add("/user-delete", "User::removeUser");
 $routes->add("/user-find/(:num)", "User::singleUser/$1");
+$routes->add("/user-remove", "User::deleteUser");
+
 if (file_exists(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
     require APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php';
 }

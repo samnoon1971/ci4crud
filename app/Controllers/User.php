@@ -80,24 +80,13 @@ class User extends BaseController {
     //Input Parameters : parameterOne->Integer
     //Return Parameters : parameterOne->View;
     //Additional Details: N/A
-    public function removeUser($id) {
-       
+    public function removeUser() {
+        $userId =(int) $_POST['search'];
         $userModel = new UserModel();
-        $user = $userModel->removeUserByID($id);
-    
-        if($user == false) {
-            echo "NO USER FOUND TO DELETE";
-        }
-        else{
-            
-            $data = [
-                "id" => $user[0]->id,
-                "firstname" => $user[0]->firstname,
-                "lastname" => $user[0]->lastname,
-                "email" => $user[0]->email,
-                "password" => $user[0]->password,
-            ];
-            echo view("removed-user", $data);
-        }
+        $userModel->removeUserByID($userId);
+        echo View("delete-success");
+    }
+    public function deleteUser() {
+        echo View("user-delete");
     }
 }
